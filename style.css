@@ -32,7 +32,7 @@ body {
         font-family: 'inter';
         font-weight: 700;
         color: hsl(0, 0%, 100%);
-        font-size: 30px;
+        font-size: 35px;
         text-align: center;
         #insight {
             color: hsl(277, 64%, 61%);
@@ -59,7 +59,7 @@ body {
     gap: 5px;
     .stat-head {
         font-family: 'inter';
-        font-size: 20px;
+        font-size: 30px;
         font-weight: 700;
         color: hsl(0, 0%, 100%);
     }
@@ -67,7 +67,7 @@ body {
         font-family: 'lexend deca';
         text-transform: uppercase;
         font-weight: 400;
-        font-size: 12px;
+        font-size: 16px;
         color: hsla(0, 0%, 100%, 0.6);
     }
 }
